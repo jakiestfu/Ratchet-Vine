@@ -5,6 +5,8 @@ A Ratchet template that attempts to recreat the beautiful Vine app
 
 [View the Demos Here](http://lab.jakiestfu.com/vine/)
 
+The real bread and butter of this template is located in [vine.css](https://github.com/jakiestfu/Ratchet-Vine/blob/master/static/css/vine.css)
+
 ## Uses:
 * [Ratchet](maker.github.com/ratchet/) (*minus* Push.js, ugh)
 * [Snap.js](https://github.com/jakiestfu/Snap.js)
